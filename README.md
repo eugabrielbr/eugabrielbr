@@ -1,5 +1,5 @@
 # Hi there 👋
-##I am a computer engineering student in training. Welcome to my profile!
+## I am a computer engineering student in training. Welcome to my profile!
 
 ### Tools and programming languages
 
@@ -11,6 +11,11 @@
 * [Git](https://git-scm.com/)
 * [GitHub](https://github.com/)
 
+### Socials
 
-
+<div align="left">
+  
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-657845237/)
+[![Instagram](https://www.instagram.com/eugabrielbr0/)
+<a href = "mailto:cmp.1a.gabrielnetbrine@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
