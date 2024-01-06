@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**eugabrielbr/eugabrielbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a computer engineering student in training. Welcome to my profile!
 
-Here are some ideas to get you started:
+### Tools and programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Java](https://www.java.com/pt-BR/)
+* [Python](https://www.python.org/)
+* [C/C++](https://www.cprogramming.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/)
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+
+
+
+
