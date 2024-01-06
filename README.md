@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am a computer engineering student in training. Welcome to my profile!
+I am a computer engineering student in training. Welcome to my profile!
 
 ### Tools and programming languages
 
