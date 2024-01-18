@@ -11,7 +11,7 @@
 * [Git](https://git-scm.com/)
 * [GitHub](https://github.com/)
 
-### Socials
+### Socials and contacts
 
 <div align="left">
   
