@@ -1,17 +1,4 @@
-# Hi 👋
-## I am a computer engineering student in training. Welcome to my profile!
-
-### Tools and programming languages
-
-* [Java](https://www.java.com/pt-BR/)
-* [Python](https://www.python.org/)
-* [C/C++](https://www.cprogramming.com/)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/)
-* [Git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-
-### Socials and contacts
+## Hi! I am a computer engineering student. Welcome to my profile!
 
 <div align="left">
   
@@ -19,3 +6,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eugabrielbr0/)
 <a href = "mailto:gabrielnetbrine@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+</div>
