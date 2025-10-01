@@ -1,4 +1,4 @@
-## Hi! I am a computer engineering student (UEFS). Welcome to my profile!
+## I am a computer engineering student (UEFS). Welcome to my profile!
 
 <div align="left">
   
